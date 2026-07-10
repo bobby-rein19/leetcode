@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bobby-rein19/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/bobby-rein19/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bobby-rein19/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/bobby-rein19/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/bobby-rein19/leetcode/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
