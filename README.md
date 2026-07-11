@@ -71,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bobby-rein19/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
