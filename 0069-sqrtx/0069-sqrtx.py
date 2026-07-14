@@ -5,20 +5,20 @@ class Solution:
         if x < 2:
             return x
 
-        left = 1
-        right = x
+        L = 1
+        R = x
 
-        while left <= right:
+        while L <= R:
 
-            mid = (left + right) // 2
+            mid = (L + R) // 2
 
             if mid * mid == x:
                 return mid
 
             elif mid * mid < x:
-                left = mid + 1
+                L = mid + 1
 
             else:
-                right = mid - 1
+                R = mid - 1
 
-        return right   
+        return R   
