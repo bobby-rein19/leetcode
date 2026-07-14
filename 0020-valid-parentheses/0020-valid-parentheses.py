@@ -4,11 +4,11 @@ class Solution:
         pairs = {')': '(', ']': '[', '}': '{'}
         
         for char in s:
-            if char in pairs:  # closing bracket
+            if char in pairs: 
                 if not stack or stack[-1] != pairs[char]:
                     return False
                 stack.pop()
-            else:  # opening bracket
+            else:  
                 stack.append(char)
         
         return not stack
