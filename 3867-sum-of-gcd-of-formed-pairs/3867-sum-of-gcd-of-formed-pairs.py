@@ -5,13 +5,14 @@ class Solution:
                 a, b = b, a % b
             return a
 
-        n = len(nums)
-        prefixGcd = []
         mx = 0
-        for x in nums:
+        n = len(nums)
+        prefixGcd = [0] * n
+        for i in range(n):
+            x = nums[i]
             if x > mx:
                 mx = x
-            prefixGcd.append(gcd(x, mx))
+            prefixGcd[i] = gcd(x, mx)
         prefixGcd.sort()
 
         total = 0
