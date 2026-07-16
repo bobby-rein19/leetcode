@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/bobby-rein19/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/bobby-rein19/leetcode/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/bobby-rein19/leetcode/tree/master/1291-sequential-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/bobby-rein19/leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
