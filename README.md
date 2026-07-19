@@ -31,7 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bobby-rein19/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bobby-rein19/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bobby-rein19/leetcode/tree/master/0069-sqrtx) |
-| [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) |
+| [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) 
 | [0258-add-digits](https://github.com/bobby-rein19/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bobby-rein19/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
